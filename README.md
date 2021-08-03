@@ -1,6 +1,6 @@
 # Open-source RXN models
 
-[Logo](./color_RXN_c10.png)
+![rxn4chemitstry_logo](./color_RXN_c10.png)
 
 ## Molecular Transformer reaction prediction
 
