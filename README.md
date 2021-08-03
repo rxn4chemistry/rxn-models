@@ -19,4 +19,3 @@
 ## RXN yield prediction models
 
 - [Trained models](https://github.com/rxn4chemistry/rxn_yields/tree/master/trained_models)
-- 
