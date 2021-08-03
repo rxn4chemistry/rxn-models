@@ -1,5 +1,7 @@
 # Open-source RXN models
 
+[Logo](./color_RXN_c10.png)
+
 ## Molecular Transformer reaction prediction
 
 - Original Molecular Transformer ([GitHub - pschwllr/MolecularTransformer](https://github.com/pschwllr/MolecularTransformer), [Models](https://ibm.ent.box.com/v/MolecularTransformerModels))
