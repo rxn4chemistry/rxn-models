@@ -1,5 +1,7 @@
 # Open-source RXN models
 
+Try the RXN for Chemistry models directly on your laptop, here a list of all the published models with links.
+
 ## Molecular Transformer reaction prediction
 
 - Original Molecular Transformer ([GitHub - pschwllr/MolecularTransformer](https://github.com/pschwllr/MolecularTransformer), [Models](https://ibm.ent.box.com/v/MolecularTransformerModels))
