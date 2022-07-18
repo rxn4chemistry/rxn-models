@@ -6,6 +6,9 @@ Try the RXN for Chemistry models directly on your laptop, here a list of all the
 
 - Original Molecular Transformer ([GitHub - pschwllr/MolecularTransformer](https://github.com/pschwllr/MolecularTransformer), [models](https://ibm.ent.box.com/v/MolecularTransformerModels), [ACS Central Science publication](https://pubs.acs.org/doi/10.1021/acscentsci.9b00576))  
 
+## Single Step Retrosynthesis
+
+- A single step transformer model trained on the public USPTO 50k dataset [Single step model USPTO 50k](https://ibm.box.com/s/fqcqxz72zqynd25qvcfnhmke8ikmps09)
 ## RXNMapper (atom-mapping)
 
 - [RXNMapper ALBERT model](https://github.com/rxn4chemistry/rxnmapper/tree/master/rxnmapper/models/transformers/albert_heads_8_uspto_all_1310k) ([Science Advances publication](https://advances.sciencemag.org/content/7/15/eabe4166))
